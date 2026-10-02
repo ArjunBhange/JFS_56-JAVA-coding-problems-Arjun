@@ -6,8 +6,8 @@ public class Atm {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Scanner sc=new Scanner(System.in);
-		/*
+		Scanner sc=new Scanner(System.in);
+		
 		System.out.println("Balance :");
 		int bal=sc.nextInt();
 		System.out.println("Deposit :");
@@ -25,8 +25,9 @@ public class Atm {
 		case 1: System.out.print("Your balance is :"+bal);
 			break;
 		case 2: System.out.print("");
+		default : System.out.println("Invalid inputs");
 		}
-		*/
+		
 	}
 
 }

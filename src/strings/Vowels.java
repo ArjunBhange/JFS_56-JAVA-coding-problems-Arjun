@@ -21,7 +21,7 @@ public class Vowels {
 		String s=sc.nextLine();
 		
 		//System.out.println(countvowel(s));
-		
+		    
 	}
 
 }
