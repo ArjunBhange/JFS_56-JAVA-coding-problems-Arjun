@@ -1,4 +1,4 @@
-package com.Core_java.TwoDA;
+package com.Core_java.Arrays;
 
 import java.util.Scanner;
 
@@ -29,5 +29,5 @@ public class JaggedDemo {
 		}
 		
 	}
-
+	
 }
