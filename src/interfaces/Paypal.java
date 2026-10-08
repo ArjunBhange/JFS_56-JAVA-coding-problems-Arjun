@@ -12,19 +12,4 @@ public class Paypal implements Payment{
 	}public int withdraw(int i) {
 		return amount-i;
 	}
-	@Override
-	public void Shoebalance() {
-		// TODO Auto-generated method stub
-		
-	}
-	@Override
-	public int deposite() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-	@Override
-	public int withdraw() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
 }
