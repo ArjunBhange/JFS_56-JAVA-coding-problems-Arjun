@@ -19,5 +19,5 @@ public class First_nonRepatingCharacter {
 	                return;
 	            }
 	        }
-	    }
+	 }
 }

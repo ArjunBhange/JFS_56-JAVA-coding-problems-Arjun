@@ -29,7 +29,7 @@ public class Parantheses {
 	        generate(result, "", 0, 0, n);
 
 	        System.out.println(result);
-	    }
+	   }
 	}
 	
 	
