@@ -12,7 +12,7 @@ public class MostConsuctiveOccurances {
 			for(int j=i;i<n;i++) {
 				if(arr[i]==1) {
 					curr++;
-				}else {							 // Navie approach
+				}else {							 // Naive approach
 					break;
 				}
 			}
