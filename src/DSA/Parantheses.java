@@ -30,11 +30,5 @@ public class Parantheses {
 
 	        System.out.println(result);
 	   }
-	}
-	
-	
-	
-	
-	
-	
 }
+	
