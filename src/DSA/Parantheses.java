@@ -6,7 +6,7 @@ public class Parantheses {
 
 	    static void generate(List<String> result, String current,
 	                         int open, int close, int n) {
-
+    
 	        if (current.length() == 2 * n) {
 	            result.add(current);
 	            return;
