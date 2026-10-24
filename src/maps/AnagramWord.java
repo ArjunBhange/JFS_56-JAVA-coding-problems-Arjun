@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class AnagramWord {
-
+																			
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -17,7 +17,7 @@ public class AnagramWord {
 	     for (int i = 0; i < n; i++) {
 	          str[i] = sc.next();
 	     }  
-	     			
+	     							
 	     Map<String, Integer> hmap = new HashMap<>();
 
 	        for (int i = 0; i < n; i++) {
