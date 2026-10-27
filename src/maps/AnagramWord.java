@@ -9,7 +9,7 @@ public class AnagramWord {
 															
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		          
 		Scanner sc=new Scanner(System.in);
 		 int n = sc.nextInt();
 	     String str[] = new String[n];
@@ -26,7 +26,6 @@ public class AnagramWord {
 	            Arrays.sort(ch);
 
 	            String key = new String(ch);
-	            									
 	            hmap.put(key, hmap.getOrDefault(key, 0) + 1);
 	        }																					
 
