@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class AnagramWord {
-															
+																															
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		          				
@@ -27,7 +27,7 @@ public class AnagramWord {
 
 	            String key = new String(ch);
 	            hmap.put(key, hmap.getOrDefault(key, 0) + 1);
-	        }																					
+	        }															
 
 	        System.out.println(hmap);
 		
