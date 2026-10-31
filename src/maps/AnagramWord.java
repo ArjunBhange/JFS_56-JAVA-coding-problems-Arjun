@@ -17,7 +17,7 @@ public class AnagramWord {
 	     for (int i = 0; i < n; i++) {
 	          str[i] = sc.next();
 	     }  
-	     							
+	     				
 	     Map<String, Integer> hmap = new HashMap<>();
 
 	        for (int i = 0; i < n; i++) {
